@@ -1,9 +1,6 @@
 # 0x1B. C - Sorting algorithms & Big O
 Foundations - Low-level programming & Algorithm ― Data structures and Algorithms
 
-###### :copyright: **[Holberton School](https://www.holbertonschool.com/)**
-by _Alexandre Gautier_
-
 ## Learning Objectives
 * At least four different sorting algorithms
 * What is the Big O notation, and how to evaluate the time complexity of an algorithm
@@ -33,8 +30,6 @@ by _Alexandre Gautier_
 * [ ] 11. Quick Sort - Hoare Partition scheme
 * [ ] 12. Dealer
 
-## Developer
-Javier Andrés Garzón Patarroyo
-- [website](https://tecnoayuda.co/)
-
-:man_technologist: :books: :computer: :globe_with_meridians:
+## Software Developer
+Built by [javi](https://github.com/javi0x00) :copyright: 2020  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).
